@@ -1,0 +1,32 @@
+/* .large-checkbox {
+    transform: scale(1.5); 
+  }
+
+  .checkbox-label {
+    display: flex;
+    align-items: center;
+  } */
+
+  .large-checkbox {
+    transform: scale(2.5); 
+  }
+
+  .checkbox-label {
+    display: flex;
+    align-items: center;
+    padding: 30px;
+  }
+
+
+  .checkbox {
+    display: flex;
+    align-items: center;
+    padding: 15px;
+  }
+
+  .clable{
+    padding-left: 20px;
+    text-justify: auto;
+  }
+
+  
